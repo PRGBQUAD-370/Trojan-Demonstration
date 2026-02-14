@@ -1,1 +1,1 @@
-# This is not real malware
+# This is not real malware it just simulates it
